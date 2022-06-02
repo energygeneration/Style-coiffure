@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Vollkorn-SemiBold.ttf';
+    src: url('police\static\Vollkorn-SemiBold.ttf');
+}
+
+*{
+    font-family: 'vollkorn-Semibold.ttf';
+}
+
+
+
+
+.br-ls p{
+    text-align: center;
+    padding-top: 18%;
+    color: white;
+    font-size: 5em;
+}
+
+
+.d-flex{
+    color: white;
+}
+
+.heading-icon h2{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.card-group{
+    margin-top: 5%;
+}
+
+.br-le h2{
+    text-align: center;
+    margin-top: 28%;
+    padding-top: 2%;
+    color: white;
+}
+
+
+.floo{
+    text-decoration: none;
+}
+
+.lo-lo h2{
+    padding-top: 3%;
+    margin-bottom: 5%;
+}
+
+.grand{
+    display: flex;
+    margin: 5%;
+}
+
+.deux{
+    margin-left: 3%;
+}
+
+.floo a{
+    text-decoration: none;
+    margin: 3%;
+}
+
+.li-li h2{
+    text-align: center;
+    color: white;
+    font-size: 5em;
+    padding-top: 3em;
+
+}
+
+
+.bg-image{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
